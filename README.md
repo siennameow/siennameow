@@ -2,7 +2,7 @@
 - 👀 I’m interested 🐱Cat 👠Fashion 🌎Travel 💃Dance
 - 🌱 I’m currently learning 👩🏻‍💻coding 
 - 📍 I’m based in San Francisco Bay Area
-- 📫 Reach me at lihexuan1@gmail.com
+- 💻 Nice meeting you! Let's coding together!
 
 <!---
 siennameow/siennameow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
