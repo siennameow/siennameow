@@ -8,17 +8,12 @@
 Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn][2] to know more about me and my works.
 
 <p align="center">
-  <img style="float: center;" 
+ ![jumping-children](https://user-images.githubusercontent.com/101283174/163698930-f64cfd75-4e4e-4ad7-9433-756cf9baf7ef.gif)
 
-src="https://images.squarespace-cdn.com/content/v1/5de928209c63e128bfc2c26c/1578492580753-A7GEH2H110PQBPFS5H3S/jumping-children.gif?format=1000w" width="85" height="82"></br>
+</br>
   <span style="color:#a0a1e8">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
 </p>
-
-<!-- Icons -->  
-[2.2]: https://raw.githubusercontent.com/siennameow/siennameow/assets/linkedin-logo.png (LinkedIn icon without padding)
-
-
-<!-- Links to your social media accounts -->                 
+               
 [2]: https://www.linkedin.com/in/hexuanli/
 
 - 🔭 I’m currently working on **Coding Bootcamp🤗**
