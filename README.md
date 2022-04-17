@@ -5,14 +5,10 @@
 ## Hey there, I'm Sienna!
 ### I'm an Web developer and desinger!🌷🌟
 
-Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn][2] to know more about me and my works.
+Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn][2] to know more about me and my works. <br>
 
-![jumping-children](https://user-images.githubusercontent.com/101283174/163698930-f64cfd75-4e4e-4ad7-9433-756cf9baf7ef.gif)
-
-</br>
-  <span style="color:#a0a1e8">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
-</p>
-               
+I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
+             
 [2]: https://www.linkedin.com/in/hexuanli/
 
 - 🔭 I’m currently working on **Coding Bootcamp🤗**
