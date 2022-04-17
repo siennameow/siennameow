@@ -1,12 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=siennameow&color=yellow&style=flat-square) 
-![](https://github.com/siennameow/siennameow/assets/octocat.gif")
+
+![octocat](https://user-images.githubusercontent.com/101283174/163698838-b1424486-f0df-4e3c-a7de-da390db946c7.gif)
+
 ## Hey there, I'm Sienna!
 ### I'm an Web developer and desinger!🌷🌟
 
-Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
+Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn][2] to know more about me and my works.
 
 <p align="center">
-  <img style="float: center;" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="85" height="82"></br>
+  <img style="float: center;" 
+
+src="https://images.squarespace-cdn.com/content/v1/5de928209c63e128bfc2c26c/1578492580753-A7GEH2H110PQBPFS5H3S/jumping-children.gif?format=1000w" width="85" height="82"></br>
   <span style="color:#a0a1e8">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
 </p>
 
