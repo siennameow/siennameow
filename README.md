@@ -5,16 +5,14 @@
 ## Hey there, I'm Sienna!
 ### I'm a web developer and desinger!🌷🌟
 
-Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn][2] to know more about me and my works. <br>
+Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn](https://www.linkedin.com/in/hexuanli/) and check my [Portfolio](https://siennameow.github.io/portfolio-2.0/)to know more about me and my works. <br>
 
 I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
              
-[2]: https://www.linkedin.com/in/hexuanli/
-
 - 🔭 I’m currently working on **Coding Bootcamp🤗**
 - 🌱 I’m currently learning everything **Full Stack Web Development**
 - 💬 Ask me about anything if my works featured in my repositories interest you
-- 📫 How to reach me: reach me via my **Email**
+- 📫 How to reach me: reach me via my **Email** lihexuan1@gmail.com
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - ⚡ Fun fact: I love cat!🐱
 - 🧡 I believe in **Open Source**
