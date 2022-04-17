@@ -3,7 +3,7 @@
 ![octocat](https://user-images.githubusercontent.com/101283174/163698838-b1424486-f0df-4e3c-a7de-da390db946c7.gif)
 
 ## Hey there, I'm Sienna!
-### I'm an Web developer and desinger!🌷🌟
+### I'm a web developer and desinger!🌷🌟
 
 Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn][2] to know more about me and my works. <br>
 
