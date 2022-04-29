@@ -31,9 +31,13 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" style="padding-right:10px;"/>
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" style="padding-right:10px;"/>
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" style="padding-right:10px;"/>
-<img align="center" alt="sienna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siennameow&show_icons=true&hide_border=true"style="padding-right:10px;"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&langs_count=8&layout=compact" style="padding-right:10px;"/>
-</p>
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=42e0f5" alt="MySQL logo" title="MySQL" height="25" style="padding-right:10px;"/>
+</p> 
+
+<img align="center" alt="sienna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siennameow&show_icons=true&hide_border=true"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&langs_count=8&layout=compact" />
+
  
 </br>
 
