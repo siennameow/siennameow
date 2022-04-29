@@ -22,9 +22,20 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
    
 ## Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+<p align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+<!--   <code><img title="React" height="25" src="images/react-original.svg"></code> -->
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+</p>
 
 
 <img align="center" alt="sienna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siennameow&show_icons=true&hide_border=true"/>
