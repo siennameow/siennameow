@@ -23,18 +23,18 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 ## Languages
 
 <p align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <img title="Javascript" height="25" src="images/javascript.svg">
+  <img title="Problem Solving" height="25" src="images/problemSolving.png">
+  <img title="HTML5" height="25" src="images/html5.svg">
+  <img title="CSS" height="25" src="images/css.svg">
+  <img title="React" height="25" src="images/react-original.svg">
+  <img title="Git" height="25" src="images/git-original.svg">
+  <img title="Visual Studio Code" height="25" src="images/vscode.png">
+  <img title="JQuery" height="25" src="images/jquery-original.svg">
+  <img title="JSON" height="25" src="images/json.svg">
+  <img title="GitHub" height="25" src="images/github.svg">
+  <img title="MySQL" height="25" src="images/mysql.svg">
+  <img title="npm" height="25" src="images/npm.svg">
 </p>
 
 
