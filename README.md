@@ -27,7 +27,7 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-<!--   <code><img title="React" height="25" src="images/react-original.svg"></code> -->
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
