@@ -40,9 +40,10 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
 </p> 
 
-<img align="center" alt="sienna's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siennameow&theme=github"/>
-
 <img align="center" alt="sienna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siennameow&show_icons=true&hide_border=true"/>
+
+
+<img align="center" alt="sienna's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siennameow&theme=github"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&langs_count=8&layout=compact" />
 
