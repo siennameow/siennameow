@@ -16,9 +16,6 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - ⚡ Fun fact: I love cat!🐱
 - 🧡 I believe in **Open Source**
-  
-<img align="center" alt="sienna's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siennameow&theme=github"/>
-
    
 ## Skills
 
@@ -41,9 +38,9 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
-
-
 </p> 
+
+<img align="center" alt="sienna's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siennameow&theme=github"/>
 
 <img align="center" alt="sienna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siennameow&show_icons=true&hide_border=true"/>
 
