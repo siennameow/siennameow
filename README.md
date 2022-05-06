@@ -47,10 +47,6 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&langs_count=8&layout=compact" />
 
- 
-</br>
-
-I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.      
      
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
@@ -81,7 +77,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-
+I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.      
 
 <!---
 siennameow/siennameow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
