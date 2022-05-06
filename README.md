@@ -68,7 +68,7 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p> 
 
-<img align="center" alt="sienna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siennameow&show_icons=true&hide_border=true"/>
+![Siennameow's GitHub stats](https://github-readme-stats.vercel.app/api?username=siennameow&theme=material-palenight&show_icons=true)
 
 <img align="center" alt="sienna's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siennameow&theme=github"/>
 
