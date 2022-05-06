@@ -43,7 +43,7 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 
 <img align="center" alt="sienna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siennameow&show_icons=true&hide_border=true"/>
 
-<img width='200' src="https://activity-graph.herokuapp.com/graph?username=siennameow" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=siennameow" />
 
 <img align="center" alt="sienna's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siennameow&theme=github"/>
 
