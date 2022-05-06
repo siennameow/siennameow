@@ -74,6 +74,8 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&langs_count=8&layout=compact" />
 
+![Snake animation](https://github.com/siennameow/siennameow/blob/output/github-contribution-grid-snake.svg)
+
 
 I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.      
 
