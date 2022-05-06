@@ -29,7 +29,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-### I'm a web developer and desinger!🌷🌟
+## I'm a web developer and desinger!🌷🌟
 
 Taking one step at a time to be more mindful of my journey. You can find me here on [LinkedIn](https://www.linkedin.com/in/hexuanli/) and check my [Portfolio](https://siennameow.github.io/portfolio-2.0/) to know more about me and my works. <br>
 
