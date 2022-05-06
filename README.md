@@ -70,7 +70,7 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 
 ![Siennameow's GitHub stats](https://github-readme-stats.vercel.app/api?username=siennameow&theme=nightowl&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&layout=compact&theme=rose_pine)](https://github.com/siennameow/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&layout=compact&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
 
 
 ![Snake animation](https://github.com/siennameow/siennameow/blob/output/github-contribution-grid-snake.svg)
