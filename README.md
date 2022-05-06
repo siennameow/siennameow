@@ -76,12 +76,12 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 ![Snake animation](https://github.com/siennameow/siennameow/blob/output/github-contribution-grid-snake.svg)
 
 ## Check my recent repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Weather-Dashboard&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=note-taker&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=team-profile-generator&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=employee-management-system&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Work-Day-Scheduler&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=professional-readme-generator&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Weather-Dashboard&theme=nightowl)](https://github.com/siennameow/Weather-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=note-taker&theme=nightowl)](https://github.com/siennameow/note-taker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=team-profile-generator&theme=nightowl)](https://github.com/siennameow/team-profile-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=employee-management-system&theme=nightowl)](https://github.com/siennameow/employee-management-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Work-Day-Scheduler&theme=nightowl)](https://github.com/siennameow/Work-Day-Scheduler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=professional-readme-generator&theme=nightowl)](https://github.com/siennameow/professional-readme-generator)
 <!---
 siennameow/siennameow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
