@@ -32,7 +32,7 @@
 
 ## I'm a web developer and desinger!🌷🌟
 
-Taking one step at a time to be more mindful of my journey. You can find me here on [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hexuanli/) and check my [Portfolio](https://siennameow.github.io/portfolio-2.0/) to know more about me and my works. <br>
+Taking one step at a time to be more mindful of my journey. You can find me here on https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/hexuanli/) and check my [Portfolio](https://siennameow.github.io/portfolio-2.0/) to know more about me and my works. <br>
 
 I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
              
