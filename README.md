@@ -70,11 +70,6 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 
 ![Siennameow's GitHub stats](https://github-readme-stats.vercel.app/api?username=siennameow&theme=nightowl&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&layout=compact&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
-
-
-![Snake animation](https://github.com/siennameow/siennameow/blob/output/github-contribution-grid-snake.svg)
-
 ## Check my recent repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Weather-Dashboard&theme=nightowl)](https://github.com/siennameow/Weather-Dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=note-taker&theme=nightowl)](https://github.com/siennameow/note-taker)
@@ -82,6 +77,11 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=employee-management-system&theme=nightowl)](https://github.com/siennameow/employee-management-system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Work-Day-Scheduler&theme=nightowl)](https://github.com/siennameow/Work-Day-Scheduler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=professional-readme-generator&theme=nightowl)](https://github.com/siennameow/professional-readme-generator)
+
+![Snake animation](https://github.com/siennameow/siennameow/blob/output/github-contribution-grid-snake.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siennameow&layout=compact&theme=nightowl)](https://github.com/siennameow/github-readme-stats)
+
 <!---
 siennameow/siennameow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
