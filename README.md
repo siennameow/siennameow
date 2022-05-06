@@ -75,9 +75,13 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 
 ![Snake animation](https://github.com/siennameow/siennameow/blob/output/github-contribution-grid-snake.svg)
 
-
-I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.      
-
+## Check my recent repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Weather-Dashboard)](https://github.com/siennameow/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=note-taker)](https://github.com/siennameow/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=team-profile-generator)](https://github.com/siennameow/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=employee-management-system)](https://github.com/siennameow/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Work-Day-Scheduler)](https://github.com/siennameow/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=professional-readme-generator)](https://github.com/siennameow/github-readme-stats)
 <!---
 siennameow/siennameow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
