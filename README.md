@@ -32,7 +32,7 @@
 
 ## I'm a web developer and desinger!🌷🌟
 
-Taking one step at a time to be more mindful of my journey. You can find me here on [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hexuanli/) and check [<img src="https://img.shields.io/badge/-My Portfolio-blueviolet" />](https://siennameow.github.io/portfolio-2.0/) to know more about me and my works. <br>
+Taking one step at a time to be more mindful of my journey. You can find me here on [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hexuanli/) and check [<img src="https://img.shields.io/badge/-My Portfolio-blueviolet" />](https://sienna-portfolio3.herokuapp.com/) to know more about me and my works. <br>
 
 I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
              
@@ -71,8 +71,9 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 ![Siennameow's GitHub stats](https://github-readme-stats.vercel.app/api?username=siennameow&theme=nightowl&show_icons=true)
 
 ## Check my recent repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Weather-Dashboard&theme=nightowl)](https://github.com/siennameow/Weather-Dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=note-taker&theme=nightowl)](https://github.com/siennameow/note-taker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=git-productive&theme=nightowl)](https://github.com/siennameow/git-productive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=
+tech-blog&theme=nightowl)](https://github.com/siennameow/tech-blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=team-profile-generator&theme=nightowl)](https://github.com/siennameow/team-profile-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=employee-management-system&theme=nightowl)](https://github.com/siennameow/employee-management-system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Work-Day-Scheduler&theme=nightowl)](https://github.com/siennameow/Work-Day-Scheduler)
