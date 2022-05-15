@@ -72,8 +72,7 @@ I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓
 
 ## Check my recent repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=git-productive&theme=nightowl)](https://github.com/siennameow/git-productive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=
-tech-blog&theme=nightowl)](https://github.com/siennameow/tech-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=tech-blog&theme=nightowl)](https://github.com/siennameow/tech-blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=team-profile-generator&theme=nightowl)](https://github.com/siennameow/team-profile-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=employee-management-system&theme=nightowl)](https://github.com/siennameow/employee-management-system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siennameow&repo=Work-Day-Scheduler&theme=nightowl)](https://github.com/siennameow/Work-Day-Scheduler)
